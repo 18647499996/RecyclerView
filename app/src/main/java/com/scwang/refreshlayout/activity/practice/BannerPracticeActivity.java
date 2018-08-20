@@ -51,6 +51,8 @@ public class BannerPracticeActivity extends AppCompatActivity {
             }
         });
 
+
+
         final RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         final RefreshLayout refreshLayout = (RefreshLayout) findViewById(R.id.refreshLayout);
 
